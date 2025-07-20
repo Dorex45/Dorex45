@@ -19,8 +19,6 @@
 
 - 📫 How to reach me **wikiwycliffe50@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1N9b08CRa1Vqzqx9h6oAmh_qSwmlxnAApc7o3R8mE7sw/edit?tab=t.0](https://docs.google.com/document/d/1N9b08CRa1Vqzqx9h6oAmh_qSwmlxnAApc7o3R8mE7sw/edit?tab=t.0)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/wycl34226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wycl34226" height="30" width="40" /></a>
