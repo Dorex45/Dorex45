@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **node optimizations and AI.**
 
-- 👯 I’m looking to collaborate on [Usafi Platform](https://usafimtaani.vercel.app/)
+- 👯 I’m looking to collaborate on [Usafi Platform](https://usafichain.vercel.app/)
 
 - 🤝 I’m looking for help with [Bloktekradio](https://www.bloktekradio.net/)
 
